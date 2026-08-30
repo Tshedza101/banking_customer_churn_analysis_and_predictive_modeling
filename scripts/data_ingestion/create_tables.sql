@@ -1,4 +1,4 @@
-USE [BankChurn]
+USE [bank_churn]
 GO
 
 --Create Demographic Table
