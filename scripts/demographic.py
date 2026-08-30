@@ -33,6 +33,7 @@ categorical_sanity_check(df,
                          'Churned', 
                          [0,1])
 
+
 # %%
 # Data Type Checking
 expected_dtypes = {
